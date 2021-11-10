@@ -18,9 +18,9 @@ class CoreTableViewController: UITableViewController {
         navigationController?.navigationBar.prefersLargeTitles = true
         StorageManager.shared.createCar()
         
-        
-        
     }
+    
+    //Some tests
     
 
 
